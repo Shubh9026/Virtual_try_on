@@ -16,5 +16,5 @@ Adarsh Kumar  Anuj Bajpai
 Aman singh  
 SUDHANSHU DIWAKAR
 Aditi Rajput
-Shubh Chaturvedi
+Shubh Chaturvedi-EE
 
